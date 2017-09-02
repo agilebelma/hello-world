@@ -1,2 +1,2 @@
 # hello-world
-Practice run for using GitHub fo rthe first time
+Practice run for using GitHub for the first time!
